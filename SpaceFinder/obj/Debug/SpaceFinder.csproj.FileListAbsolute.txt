@@ -1,0 +1,22 @@
+F:\proyectos visual\SpaceFinder\SpaceFinder\bin\Debug\SpaceFinder.exe.config
+F:\proyectos visual\SpaceFinder\SpaceFinder\bin\Debug\SpaceFinder.exe
+F:\proyectos visual\SpaceFinder\SpaceFinder\bin\Debug\SpaceFinder.pdb
+F:\proyectos visual\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.csproj.AssemblyReference.cache
+F:\proyectos visual\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.csproj.SuggestedBindingRedirects.cache
+F:\proyectos visual\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.Form1.resources
+F:\proyectos visual\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.Properties.Resources.resources
+F:\proyectos visual\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.csproj.GenerateResource.cache
+F:\proyectos visual\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.csproj.CoreCompileInputs.cache
+F:\proyectos visual\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.exe
+F:\proyectos visual\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.pdb
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\bin\Debug\SpaceFinder.exe.config
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\bin\Debug\SpaceFinder.exe
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\bin\Debug\SpaceFinder.pdb
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.Form1.resources
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.Properties.Resources.resources
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.exe
+C:\Users\Marcos\Desktop\SpaceFinder\SpaceFinder\obj\Debug\SpaceFinder.pdb
