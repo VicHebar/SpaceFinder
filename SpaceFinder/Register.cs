@@ -138,7 +138,7 @@ namespace SpaceFinder
         {
             myForm.mydb.abrir();
             MessageBox.Show(txtUserName.Text);
-            myForm.mydb.AddUser(txtUserName.Text, txtPassword.Text, txtLastName.Text, txtSurName.Text, 
+            myForm.mydb.AddUser(1,txtUserName.Text, txtPassword.Text, txtLastName.Text, txtSurName.Text, 
                 txtEmail.Text, txtPhoneNumber.Text, myForm.ActiveUser.ID);
             myForm.mydb.cerrar();
             MessageBox.Show("Usuario creado correctamente");

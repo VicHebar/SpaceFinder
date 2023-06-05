@@ -31,10 +31,19 @@ namespace SpaceFinder
             myHomeAdministrator = new HomeAdministrator(this);
             myDelete = new Delete(this);
 
-            //myRegister.InitializeRegister();
+            DialogResult Populate;
+
+            Populate = MessageBox.Show("Deseas poblar la base de datos?","Populate DB",MessageBoxButtons.YesNo);
+
+            if(Populate == DialogResult.Yes)
+            {
+                mydb.abrir();
+                mydb.PopulateDB();
+                mydb.cerrar();
+            }
+
+            
             myLogin.InitializeLogin();
-            //myHomeAdministrator.InitializeHomeAdministrator();
-            //myDelete.InitializeDelete();
         }
 
         private void Form1_Load(object sender, EventArgs e)

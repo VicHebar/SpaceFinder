@@ -12,6 +12,7 @@ namespace SpaceFinder
     public class DataUser
     {
         public int ID;
+        public int Role;
         public string UserName;
         public string Password;
         public string LastName;
@@ -23,13 +24,14 @@ namespace SpaceFinder
         public DataUser(SqlDataReader data)
         {
             ID = Convert.ToInt32(data[0].ToString());
-            UserName = data[1].ToString();
-            Password = data[2].ToString();
-            LastName = data[3].ToString();
-            SurName = data[4].ToString();
-            Email = data[5].ToString();
-            PhoneNumber = data[6].ToString();
-            CreationTime = DateTime.Parse(data[7].ToString());
+            Role = Convert.ToInt32(data[1].ToString());
+            UserName = data[2].ToString();
+            Password = data[3].ToString();
+            LastName = data[4].ToString();
+            SurName = data[5].ToString();
+            Email = data[6].ToString();
+            PhoneNumber = data[7].ToString();
+            CreationTime = DateTime.Parse(data[8].ToString());
         }
     }
 
